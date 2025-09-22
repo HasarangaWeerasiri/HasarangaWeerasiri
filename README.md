@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chathushka03hasaranga@gmail.com**
 
-- ⚡ Fun fact **Call Me As Hasa**
+- ⚡ Fun fact **When I’m not coding, you’ll probably find me grinding levels in a video game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
