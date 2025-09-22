@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="hasaranga" width="150" height="150"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Hasaranga Weerasiri</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
